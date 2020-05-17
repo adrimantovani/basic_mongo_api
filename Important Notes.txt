@@ -1,0 +1,8 @@
+MONGO DB
+Database user: adrimantovani
+password: KogLa75J
+
+mongodb+srv://adrimantovani:<password>@cluster0-41j0b.mongodb.net/test?retryWrites=true&w=majority
+
+
+		
